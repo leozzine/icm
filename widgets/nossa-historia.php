@@ -69,24 +69,6 @@
         </div>
     </section>
 
-    <!-- FALE -->
-    <section>
-        <div class="py-5" style="background-color: var(--icm-secondary);">
-            <div class="container-xl">
-                <div class="row align-items-center">
-                    <div class="col-12 col-lg d-flex flex-column gap-2">
-                        <div class="col fw-bold display-6">Dúvidas, sugestões e críticas?</div>
-                        <div class="col fs-3">Manda uma mensagem pra gente!</div>
-                    </div>
-                    <div class="col-12 col-lg justify-content-center d-flex mt-4 mt-lg-0">
-                        <div><a href="contato.html" class="btn icm-cta">Fale conosco</a></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
     <!-- BOOTSTRAP -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
