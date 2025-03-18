@@ -79,7 +79,7 @@ p {
 .elemento-top-quem-somos {
     background: rgb(25, 59, 116);
     background:
-        url(../../imgs/grafismo-1.png) right 80px / 70%,
+        url(../../imgs/grafismo-1.png) right 0 / 70%,
         linear-gradient(140deg, rgba(25, 59, 116, 1) 0%, rgba(14, 19, 54, 1) 100%);
     background-repeat: no-repeat;
 

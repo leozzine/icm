@@ -63,7 +63,7 @@
                             <a class="nav-link" href="/videos">Videos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="contato.html">Contato</a>
+                            <a class="nav-link" href="/fale-conosco">Contato</a>
                         </li>
                     </ul>
                     <ul class="flex-row py-4 py-lg-0 m-0 p-0 d-flex gap-2">
