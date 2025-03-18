@@ -1,4 +1,4 @@
-<div class="elemento-top-quem-somos">
+<div class="elementos-top-1">
     <section>
         <div class="elementos-videos">
             <div class="container-xl">
