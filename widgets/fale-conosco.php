@@ -8,7 +8,7 @@
                      <div class="col fs-3">Manda uma mensagem pra gente!</div>
                  </div>
                  <div class="col-12 col-lg justify-content-center d-flex mt-4 mt-lg-0">
-                     <div><a href="/" class="btn icm-cta">Fale conosco</a></div>
+                     <div><a href="/fale-conosco" class="btn icm-cta">Fale conosco</a></div>
                  </div>
              </div>
          </div>

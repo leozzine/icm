@@ -11,6 +11,11 @@
 
     <!-- WORDPRESS CORE -->
     <?php wp_head(); ?>
+
+    <!-- Add the slick-theme.css if you want default styling -->
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css" />
+    <!-- Add the slick-theme.css if you want default styling -->
+    <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css" />
 </head>
 
 
@@ -21,7 +26,7 @@
         <div class="container-xl">
             <nav class="navbar navbar-expand-lg bg-white p-0 m-0">
                 <div class="d-flex align-items-center justify-content-between flex-fill flex-md-auto icm-header">
-                    <a href="quem-somos.html" class="text-nowrap align-self-end nav-bar-brand">
+                    <a href="/" class="text-nowrap align-self-end nav-bar-brand">
                         <img data-bs-toggle="collapse" src="<?php echo get_template_directory_uri(); ?>/imgs/logo-icm.png" class="logo-icm-topo"
                             loading="lazy" alt="logo icm" />
                     </a>
@@ -39,9 +44,9 @@
                                 Quem Somos
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="nossa-historia.html">Nossa História</a></li>
-                                <li><a class="dropdown-item" href="instituto.html">O Insituto</a></li>
-                                <li><a class="dropdown-item" href="relatorios.html">Relatórios</a></li>
+                                <li><a class="dropdown-item" href="/nossa-historia">Nossa História</a></li>
+                                <li><a class="dropdown-item" href="/o-instituto">O Insituto</a></li>
+                                <li><a class="dropdown-item" href="/quem-somos/balanco-social">Relatórios</a></li>
                             </ul>
                         </li>
                         <li class="nav-item dropdown">
@@ -50,12 +55,12 @@
                                 O que fazemos
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="atuacao.html">Nossa Atuação</a></li>
-                                <li><a class="dropdown-item" href="nossos-projetos.html">Nossos Projetos</a></li>
+                                <li><a class="dropdown-item" href="/o-que-fazemos/nosso-publico">Nossa Atuação</a></li>
+                                <li><a class="dropdown-item" href="/o-que-fazemos/nossos-projetos">Nossos Projetos</a></li>
                             </ul>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="videos.html">Videos</a>
+                            <a class="nav-link" href="/videos">Videos</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="contato.html">Contato</a>
