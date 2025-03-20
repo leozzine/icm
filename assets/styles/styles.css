@@ -264,6 +264,25 @@ elementos-contato {
     align-items: center;
 }
 
+.poster-video-mobile {
+    width: 100%;
+    height: 40vh;
+    background-image: url(../../imgs/bg-happy-face-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.video-overlay {
+    opacity: .5;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(../../imgs/bg-overlay.png);
+}
+
 .icm-barra-janela {
     background-color: var(--icm-primary);
     border-top-left-radius: 25px;
@@ -392,14 +411,6 @@ icm-inner-janela-poster {
     padding-top: 24%;
 }
 
-.poster-video-mobile {
-    width: 100%;
-    height: 40vh;
-    background-image: url(../../imgs/bg-happy-face-desktop.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
 
 @media (max-width:1024px) {
     .poster-video-mobile {
@@ -407,15 +418,6 @@ icm-inner-janela-poster {
     }
 }
 
-.video-overlay {
-    opacity: .5;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image: url(../../imgs/bg-overlay.png);
-}
 
 
 @media (min-width: 576px) {
@@ -423,8 +425,4 @@ icm-inner-janela-poster {
         display: block;
         margin-top: 0;
     }
-}
-
-.justopush{
-    content: none;
 }
