@@ -272,11 +272,17 @@ elementos-contato {
     border: 5px solid black;
 }
 
-.icm-inner-janela {
+.icm-inner-janela,
+icm-inner-janela-poster {
     border: 5px solid black;
     border-top-width: 0;
     border-bottom-right-radius: 25px;
     border-bottom-left-radius: 25px;
+}
+
+.icm-inner-janela-video {
+    border: 5px solid black;
+    border-top-width: 0;
 }
 
 @media (min-width:1024px) {
@@ -384,6 +390,31 @@ elementos-contato {
 
 .btn-nav-projetos {
     padding-top: 24%;
+}
+
+.poster-video-mobile {
+    width: 100%;
+    height: 40vh;
+    background-image: url(../../imgs/bg-happy-face-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@media (max-width:1024px) {
+    .poster-video-mobile {
+        background-position: 80% top;
+    }
+}
+
+.overlay {
+    opacity: .5;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(../../imgs/bg-overlay.png);
 }
 
 

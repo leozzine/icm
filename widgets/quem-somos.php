@@ -6,8 +6,19 @@
                 <div class="col-12 col-lg-5 col-xl-4 d-flex flex-column gap-4">
                     <img src="<?php echo get_template_directory_uri(); ?>/imgs/logo-icm-branco.png" alt="logo-icm-branco" loading="lazy" style="max-width: 320px;"
                         class="img-fluid align-self-center">
-                    <img src="<?php echo get_template_directory_uri(); ?>/imgs/janelas-quem-somos.png" class="img-fluid d-block d-lg-none" alt="janelas"
-                        loading="lazy">
+                    <div class="d-block d-lg-none ">
+                        <div class="icm-barra-janela d-flex justify-content-between align-items-center">
+                            <div class="col-1 col-lg-auto">
+                                <img src="<?php echo get_template_directory_uri(); ?>/imgs/x-janela.png" alt="ico janela" loading="lazy" class="img-fluid" />
+                            </div>
+                            <div class="col-2 col-lg-auto">
+                                <img src="<?php echo get_template_directory_uri(); ?>/imgs/btn-janela.png" alt="ico janela" loading="lazy" class="img-fluid" />
+                            </div>
+                        </div>
+                        <div class="position-relative poster-video-mobile icm-inner-janela">
+                            <div class="overlay"></div>
+                        </div>
+                    </div>
                     <h1 class="display-4 fw-bold icm-h1">Quem Somos</h1>
                     <div class="fs-5" style="font-weight: 500;">Somos uma organização privada sem fins
                         lucrativos mantida pelo Grupo Moura, que desde 2014 dá continuidade ao trabalho social
@@ -16,8 +27,24 @@
                         jovens.</div>
                     <div><a href="/nossa-historia.html" class="btn icm-cta">saiba mais</a></div>
                 </div>
-                <div class="col-12 col-lg align-self-end d-none d-lg-block">
-                    <img src="<?php echo get_template_directory_uri(); ?>/imgs/janelas-quem-somos.png" class="img-fluid" alt="janelas" loading="lazy">
+                <div class="col-12 col-lg align-self-center d-none d-lg-block">
+                    <!-- <img src="<?php echo get_template_directory_uri(); ?>/imgs/janelas-quem-somos.png" class="img-fluid" alt="janelas" loading="lazy"> -->
+                    <div class="icm-barra-janela d-flex justify-content-between align-items-center">
+                        <div class="col-1 col-lg-auto">
+                            <img src="<?php echo get_template_directory_uri(); ?>/imgs/x-janela.png" alt="ico janela" loading="lazy" class="img-fluid" />
+                        </div>
+                        <div class="col-2 col-lg-auto">
+                            <img src="<?php echo get_template_directory_uri(); ?>/imgs/btn-janela.png" alt="ico janela" loading="lazy" class="img-fluid" />
+                        </div>
+                    </div>
+                    <div class="position-relative overflow-hidden p-0 m-0 hidden-xs">
+                        <video class="icm-inner-janela-video" style="width: 100%;" id="happy-face" autoplay="" loop="" muted="" poster="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/images/bg-happy-face-desktop.jpg">
+                            <source src="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/movies/hero.mp4" type="video/mp4">
+                            <source src="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/movies/hero.webm" type="video/webm">
+                            <source src="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/movies/hero.ogv" type="video/ogv">
+                        </video>
+                        <div class="overlay"></div>
+                    </div>
                 </div>
             </div>
         </div>
