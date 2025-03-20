@@ -1,13 +1,13 @@
 <div class="elemento-top-quem-somos">
     <!-- CONTENT -->
     <section>
-        <div class="container-xl py-5 mb-4">
+        <div class="container-xl mb-4 py-5">
             <div class="row">
                 <div class="col-12 col-lg-5 col-xl-4 d-flex flex-column gap-4">
                     <img src="<?php echo get_template_directory_uri(); ?>/imgs/logo-icm-branco.png" alt="logo-icm-branco" loading="lazy" style="max-width: 320px;"
-                        class="img-fluid align-self-center">
-                    <div class="d-block d-lg-none ">
-                        <div class="icm-barra-janela d-flex justify-content-between align-items-center">
+                        class="align-self-center img-fluid">
+                    <div class="d-block d-lg-none">
+                        <div class="d-flex align-items-center justify-content-between icm-barra-janela">
                             <div class="col-1 col-lg-auto">
                                 <img src="<?php echo get_template_directory_uri(); ?>/imgs/x-janela.png" alt="ico janela" loading="lazy" class="img-fluid" />
                             </div>
@@ -15,7 +15,7 @@
                                 <img src="<?php echo get_template_directory_uri(); ?>/imgs/btn-janela.png" alt="ico janela" loading="lazy" class="img-fluid" />
                             </div>
                         </div>
-                        <div class="position-relative poster-video-mobile icm-inner-janela">
+                        <div class="position-relative icm-inner-janela poster-video-mobile">
                             <div class="overlay"></div>
                         </div>
                     </div>
@@ -27,9 +27,9 @@
                         jovens.</div>
                     <div><a href="/nossa-historia.html" class="btn icm-cta">saiba mais</a></div>
                 </div>
-                <div class="col-12 col-lg align-self-center d-none d-lg-block">
+                <div class="col-12 col-lg d-lg-block d-none align-self-center">
                     <!-- <img src="<?php echo get_template_directory_uri(); ?>/imgs/janelas-quem-somos.png" class="img-fluid" alt="janelas" loading="lazy"> -->
-                    <div class="icm-barra-janela d-flex justify-content-between align-items-center">
+                    <div class="d-flex align-items-center justify-content-between icm-barra-janela">
                         <div class="col-1 col-lg-auto">
                             <img src="<?php echo get_template_directory_uri(); ?>/imgs/x-janela.png" alt="ico janela" loading="lazy" class="img-fluid" />
                         </div>
@@ -37,7 +37,7 @@
                             <img src="<?php echo get_template_directory_uri(); ?>/imgs/btn-janela.png" alt="ico janela" loading="lazy" class="img-fluid" />
                         </div>
                     </div>
-                    <div class="position-relative overflow-hidden p-0 m-0 hidden-xs">
+                    <div class="d-lg-block d-none m-0 p-0 position-relative overflow-hidden">
                         <video class="icm-inner-janela-video" style="width: 100%;" id="happy-face" autoplay="" loop="" muted="" poster="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/images/bg-happy-face-desktop.jpg">
                             <source src="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/movies/hero.mp4" type="video/mp4">
                             <source src="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/movies/hero.webm" type="video/webm">
@@ -52,16 +52,16 @@
 
     <section>
         <div class="container-xl pb-5">
-            <div class="row flex-column-md">
+            <div class="flex-column-md row">
 
-                <h2 class="display-4 fw-bold d-block d-lg-none">O que fazemos</h2>
+                <h2 class="d-block d-lg-none display-4 fw-bold">O que fazemos</h2>
 
                 <div class="col-12 col-lg-6 order-first mb-4 mb-lg-0">
                     <img src="<?php echo get_template_directory_uri(); ?>/imgs/o-que-fazemos.png" alt="o que fazemos" loading="lazy" class="img-fluid">
                 </div>
                 <div class="col pt-0">
-                    <h2 class="display-4 fw-bold d-none d-lg-block">O que fazemos</h2>
-                    <ul class="list-unstyled icm-list gap-4 d-flex flex-column mt-4 fs-4">
+                    <h2 class="d-lg-block d-none display-4 fw-bold">O que fazemos</h2>
+                    <ul class="d-flex flex-column list-unstyled fs-4 gap-4 icm-list mt-4">
                         <li><img src="<?php echo get_template_directory_uri(); ?>/imgs/list-bullet.png" alt="bullet" loading="lazy" /><span>Educação de
                                 Qualidade</span></li>
                         <li><img src="<?php echo get_template_directory_uri(); ?>/imgs/list-bullet.png" alt="bullet" loading="lazy" /><span>Arte e cultura</span>
@@ -79,12 +79,12 @@
     <section>
         <div class="elementos-quem-somos">
             <div class="container-xl" style="padding-bottom: var(--icm-margin-120);">
-                <div class="col-12 col-sm-8 col-lg-7 display-4 fw-bold mb-5">
+                <div class="col-12 col-lg-7 col-sm-8 display-4 fw-bold mb-5">
                     Parceiros do Instituto
                     Conceição Moura
                 </div>
                 <div class="col-12">
-                    <div class="icm-barra-janela d-flex justify-content-between align-items-center">
+                    <div class="d-flex align-items-center justify-content-between icm-barra-janela">
                         <div class="col-1 col-lg-auto">
                             <img src="<?php echo get_template_directory_uri(); ?>/imgs/x-janela.png" alt="ico janela" loading="lazy" class="img-fluid" />
                         </div>
@@ -93,7 +93,7 @@
                         </div>
                     </div>
                     <div
-                        class="bg-white d-flex flex-wrap row-gap-4 align-items-center justify-content-center py-2 py-lg-5 px-2 px-lg-5 icm-inner-janela">
+                        class="d-flex flex-wrap row-gap-4 align-items-center bg-white justify-content-center icm-inner-janela px-2 px-lg-5 py-2 py-lg-5">
                         <div class="col-4 col-lg-2 text-center"><img src="<?php echo get_template_directory_uri(); ?>/imgs/logo-moura.png" alt="logo"
                                 loading="lazy" class="img-fluid" /></div>
                         <div class="col-4 col-lg-2 text-center"><img src="<?php echo get_template_directory_uri(); ?>/imgs/logo-bitury.png" alt="logo"
