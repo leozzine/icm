@@ -191,10 +191,18 @@ elementos-contato {
     height: auto;
 }
 
+.logo-icm-branco {
+    max-width: 200px;
+    align-self: flex-start;
+}
+
 @media (min-width: 769px) and (max-width: 1024px) {
     .logo-icm-topo {
         width: 300px;
         height: auto;
+    }
+    .logo-icm-branco {
+        max-width: 250px;
     }
 }
 
@@ -203,6 +211,9 @@ elementos-contato {
         width: 429px;
         height: 93px;
 
+    }
+    .logo-icm-branco {
+        max-width: 320px;;
     }
 }
 
