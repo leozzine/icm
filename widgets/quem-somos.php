@@ -42,7 +42,7 @@
                             <source src="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/movies/hero.webm" type="video/webm">
                             <source src="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/movies/hero.ogv" type="video/ogv">
                         </video>
-                        <div class="overlay"></div>
+                        <div class="video-overlay"></div>
                     </div>
                 </div>
             </div>

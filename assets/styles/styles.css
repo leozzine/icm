@@ -407,7 +407,7 @@ icm-inner-janela-poster {
     }
 }
 
-.overlay {
+.video-overlay {
     opacity: .5;
     position: absolute;
     top: 0;
@@ -424,6 +424,7 @@ icm-inner-janela-poster {
         margin-top: 0;
     }
 }
+
 .justopush{
     content: none;
 }
