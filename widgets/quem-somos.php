@@ -28,7 +28,6 @@
                     <div><a href="/nossa-historia.html" class="btn icm-cta">saiba mais</a></div>
                 </div>
                 <div class="col-12 col-lg d-lg-block d-none align-self-center">
-                    <!-- <img src="<?php echo get_template_directory_uri(); ?>/imgs/janelas-quem-somos.png" class="img-fluid" alt="janelas" loading="lazy"> -->
                     <div class="d-flex align-items-center justify-content-between icm-barra-janela">
                         <div class="col-1 col-lg-auto">
                             <img src="<?php echo get_template_directory_uri(); ?>/imgs/x-janela.png" alt="ico janela" loading="lazy" class="img-fluid" />
