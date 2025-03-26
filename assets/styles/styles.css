@@ -321,19 +321,51 @@ icm-inner-janela-poster {
 .icm-inner-janela-video {
     border: 5px solid black;
     border-top-width: 0;
+    position: relative;
 }
 
-.icm-video {
-    width: 200%;
-    height: 300px;
-    transform: translate(-45%, 0);
+
+.icm-inner-janela-video {
+    width: 100%;
+    height: 250px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
 }
 
-@media (max-width:768px) {
+
+.icm-video-home {
+    width: 100%;
+    position: absolute;
+    right: 0;
+}
+
+@media (max-width:320px) {
+    .icm-video-home {
+        width: 180%;
+    }
+}
+
+@media (min-width:321px) and (max-width:499px) {
+    .icm-video-home {
+        position: absolute;
+        width: 150%;
+        right: 0;
+    }
+}
+
+@media (min-width:500px) and (max-width:1023px) {
     .icm-inner-janela-video {
-        width: 235%;
-        width: 100%;
-        /* height: 300px; */
+        height: 380px;
+    }
+
+    .icm-video-home {
+        width: 150%;
+    }
+}
+
+@media (min-width:1024px) {
+    .icm-inner-janela-video {
+        height: auto;
     }
 }
 
