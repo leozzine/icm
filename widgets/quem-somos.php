@@ -15,8 +15,13 @@
                                 <img src="<?php echo get_template_directory_uri(); ?>/imgs/btn-janela.png" alt="ico janela" loading="lazy" class="img-fluid" />
                             </div>
                         </div>
-                        <div class="position-relative icm-inner-janela poster-video-mobile">
-                            <div class="overlay"></div>
+                        <div class="m-0 p-0 position-relative overflow-hidden icm-inner-janela-video">
+                            <video class="icm-video" id="icm-video" autoplay="" loop="" muted="" poster="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/images/bg-happy-face-desktop.jpg">
+                                <source src="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/movies/hero.mp4" type="video/mp4">
+                                <source src="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/movies/hero.webm" type="video/webm">
+                                <source src="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/movies/hero.ogv" type="video/ogv">
+                            </video>
+                            <div class="video-overlay"></div>
                         </div>
                     </div>
                     <h1 class="display-4 fw-bold icm-h1">Quem Somos</h1>
