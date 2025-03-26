@@ -128,7 +128,7 @@
                             <button type="submit" class="btn icm-cta flex-fill">ENVIAR</button>
                         </div>
                     </form>
-
+                    <?php get_template_part('template-parts/content', 'contato'); ?>
                 </div>
             </div>
         </div>
