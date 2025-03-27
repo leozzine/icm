@@ -45,7 +45,7 @@
                             </a>
                             <ul class="dropdown-menu">
                                 <li><a class="dropdown-item" href="/nossa-historia">Nossa História</a></li>
-                                <li><a class="dropdown-item" href="/o-instituto">O Insituto</a></li>
+                                <li><a class="dropdown-item" href="/o-instituto">O Instituto</a></li>
                                 <li><a class="dropdown-item" href="/quem-somos/balanco-social">Relatórios</a></li>
                             </ul>
                         </li>
