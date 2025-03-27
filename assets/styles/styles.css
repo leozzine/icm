@@ -479,23 +479,61 @@ icm-inner-janela-poster {
 
 
 /* form */
+
+.wpcf7-form {
+    display: flex;
+    flex-flow: column wrap;
+    gap: 6px;
+}
+
+.wpcf7-form p {
+    flex: 0 0 100%;
+
+}
+
+.wpcf7 label {
+    width: 100%;
+}
+
 .icm-field {
     border-radius: 10px;
     padding: 8px;
     width: 100%;
 }
 
-.icm-submit-button {}
+.icm-submit-button {
+    margin-top: 8px;
+    width: 100%;
+}
+
+input[name="file"] {
+    background-color: #fff;
+    color: black;
+}
+
+
 
 @media (max-width:768px) {
-    .icm-field {}
+
+    .icm-field {
+        width: 100%;
+    }
 
     .icm-submit-button {
         width: 100%;
-        margin-top: 8px;
     }
 }
 
+@media (min-width:769px) {
+    .wpcf7-form {
+        flex-flow: row wrap;
+    }
+
+    .wpcf7-form p:nth-child(3),
+    .wpcf7-form p:nth-child(4) {
+        flex: 1 1 49%;
+    }
+}
 
 /* fix bootstrap dropdown on hover  */
 @media (min-width: 576px) {

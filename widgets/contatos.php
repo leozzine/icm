@@ -87,7 +87,7 @@
                     <p class="fs-5 col-12">É muito importante para nós ouvirmos você. Seja através de uma crítica,
                         uma dúvida ou sugestão, estamos sempre dispostos a ouvir e melhorar nosso relacionamento.</p>
                     <p class="fs-5 col-12">Manda uma mensagem pra gente!</p>
-                    <form class="row g-3">
+                    <!-- <form class="row g-3">
                         <div class="col-12">
                             <label for="nome" class="form-label">Nome</label>
                             <input type="text" class="form-control" id="nome" placeholder="Seu Nome" minlength="3"
@@ -127,8 +127,8 @@
                         <div class="col-12 mt-5 justify-content-center d-flex">
                             <button type="submit" class="btn icm-cta flex-fill">ENVIAR</button>
                         </div>
-                    </form>
-                    <?php get_template_part('template-parts/content', 'contato'); ?>
+                    </form> -->
+                    <?php the_content(); ?>
                 </div>
             </div>
         </div>
@@ -139,4 +139,10 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
     integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
     crossorigin="anonymous"></script>
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js"></script>
+<script>
+    jQuery(document).ready(function($) {
+        $('input[name="telefone"]').mask('(00) 00000-0000');
+    });
 </script>
