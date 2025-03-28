@@ -16,7 +16,7 @@
                             </div>
                         </div>
                         <div class="m-0 p-0 position-relative overflow-hidden icm-inner-janela-video">
-                            <video class="icm-video-home" id="icm-video-home" autoplay loop muted poster="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/images/bg-happy-face-desktop.jpg">
+                            <video class="icm-video-home" id="icm-video-home" autoplay loop muted playsinline poster="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/images/bg-happy-face-desktop.jpg">
                                 <source src="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/movies/hero.mp4" type="video/mp4">
                                 <source src="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/movies/hero.webm" type="video/webm">
                                 <source src="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/movies/hero.ogv" type="video/ogv">
@@ -42,7 +42,7 @@
                         </div>
                     </div>
                     <div class="d-lg-block d-none m-0 p-0 position-relative overflow-hidden">
-                        <video class="icm-inner-janela-video" style="width: 100%;" id="happy-face" autoplay="" loop="" muted="" poster="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/images/bg-happy-face-desktop.jpg">
+                        <video class="icm-inner-janela-video" style="width: 100%;" id="happy-face" autoplay loop muted playsinline poster="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/images/bg-happy-face-desktop.jpg">
                             <source src="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/movies/hero.mp4" type="video/mp4">
                             <source src="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/movies/hero.webm" type="video/webm">
                             <source src="https://s34929.pcdn.co/wp-content/themes/instituto-conceicao-moura/assets/movies/hero.ogv" type="video/ogv">
