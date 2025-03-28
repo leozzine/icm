@@ -157,8 +157,7 @@
     integrity="sha256-UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc=" crossorigin="anonymous"></script>
 <script>
     $(document).ready(function() {
-        $('.icm-video-home').autplay = true;
-        $('.icm-video-home').play();
-        alert($('.icm-video-home'));
+        $('#icm-video-home').autplay = true;
+        $('#icm-video-home').get(0).play();
     });
 </script>
