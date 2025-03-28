@@ -21,7 +21,7 @@
                         </div>
                     </div>
                     <h2 class="fs-3">Institucionais</h2>
-                    <div class="row row-gap-3 row-gap-lg-5">
+                    <div class="row row-gap-5">
                         <div class="col-12 col-lg-6 d-flex gap-2 flex-column">
                             <a href="https://www.youtube.com/watch?v=g9K8ed0diJo" target="_blank">
                                 <img src="<?php echo get_template_directory_uri(); ?>/imgs/prestacao-de-contas-2024.jpg" alt="video thumb"
@@ -43,7 +43,7 @@
                             </a>
                             <span>Prestação de contas 2022</span>
                         </div>
-                        <h2 class="fs-3">Ações / Projetos</h2>
+                        <h2 class="fs-3 pt-3 pt-lg-1">Ações / Projetos</h2>
 
                         <div class="col-12 col-lg-6 d-flex gap-2 flex-column">
                             <a href="https://youtu.be/bGZ_67r6Njg" target="_blank">
