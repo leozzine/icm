@@ -68,7 +68,7 @@
                         </ul>
                     </div>
                     <div class="d-flex flex-column gap-3">
-                        <div class="fs-4 fw-bold">Insituto nas Redes</div>
+                        <div class="fs-4 fw-bold">Instituto nas Redes</div>
                         <ul class="flex-row rounded py-4 px-2 py-lg-2 m-0 p-0 d-flex gap-2" style="background-color: rgba(255, 255, 255, .1); width: fit-content;">
                             <li class="icm-social-icon"><a href="https://facebook.com/icmoura/" target="_blank"><i
                                         class="bi bi-facebook"></i></a></li>
