@@ -46,6 +46,12 @@
                         <h2 class="fs-3" style="color: var(--icm-primary); margin-bottom:-16px;">Ações / Projetos</h2>
 
                         <div class="col-12 col-lg-6 d-flex gap-2 flex-column">
+                            <a href="https://youtu.be/BYfKRH4he-A" target="_blank">
+                                <img src="<?php echo get_template_directory_uri(); ?>/imgs/thumb-10-anos.png" alt="video thumb" class="img-fluid rounded-3">
+                            </a>
+                            <span>Instituto 10 anos</span>
+                        </div>
+                        <div class="col-12 col-lg-6 d-flex gap-2 flex-column">
                             <a href="https://youtu.be/bGZ_67r6Njg" target="_blank">
                                 <img src="<?php echo get_template_directory_uri(); ?>/imgs/thumb-instituto.webp" alt="video thumb" class="img-fluid rounded-3">
                             </a>

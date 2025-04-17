@@ -3,13 +3,12 @@
     <section>
         <div class="container-xl">
             <div class="row flex-column flex-xl-row row-gap-4 py-5">
-                <div class="col-12 col-md-8 col-xl-6">
+                <div class="col-12 col-md-8 col-xxl-6">
                     <img src="<?php echo get_template_directory_uri(); ?>/imgs/janela-atuacao.png" alt="janela nossa historia" class="img-fluid" style="object-fit: contain;" />
                 </div>
-                <div class="col-12 col-xl-6 d-flex flex-column gap-4">
+                <div class="col-12 col-xxl-6 d-flex flex-column gap-4">
                     <div class="d-flex flex-row align-items-center col-12 gap-3">
-                        <img src="<?php echo get_template_directory_uri(); ?>/imgs/shape-header.png" alt="icone de cabecalho" loading="lazy"
-                            class="icm-shape-h1 flex-grow-0">
+                        <img src="<?php echo get_template_directory_uri(); ?>/imgs/shape-header.png" alt="icone de cabecalho" loading="lazy" class="icm-shape-h1 flex-grow-0">
                         <h1 class="display-4 m-0 fw-bold">Nossa Atuação</h1>
                     </div>
                     <div class="col-12">

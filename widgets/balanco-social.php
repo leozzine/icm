@@ -3,14 +3,13 @@
     <div class="w-100 elementos-relatorios">
         <section>
             <div class="container-xl">
-                <div class="row gap-4 gap-lg-0 pb-5 pt-4 mb-lg-4">
-                    <div class="col-12 col-lg-6">
-                        <img src="<?php echo get_template_directory_uri(); ?>/imgs/janela-nossa-historia.png" alt="janela nossa historia" class="img-fluid" />
+                <div class="row gap-4 gap-xl-0 pb-5 pt-4 mb-lg-4">
+                    <div class="col-12 col-xl-6">
+                        <img src="<?php echo get_template_directory_uri(); ?>/imgs/janela-relatorios.png" alt="janela nossa historia" class="img-fluid" />
                     </div>
-                    <div class="col-12 col-lg-6">
+                    <div class="col-12 col-xl-6">
                         <div class="d-flex flex-row align-items-center col-12 gap-3">
-                            <img src="<?php echo get_template_directory_uri(); ?>/imgs/shape-header.png" alt="icone de cabecalho" loading="lazy"
-                                class="icm-shape-h1 flex-grow-0">
+                            <img src="<?php echo get_template_directory_uri(); ?>/imgs/shape-header.png" alt="icone de cabecalho" loading="lazy" class="icm-shape-h1 flex-grow-0">
                             <h1 class="display-4 m-0 fw-bold">Relatórios</h1>
                         </div>
                         <div class="row col-12">
@@ -42,6 +41,12 @@
                             class="img-fluid cursor-pointer" />
                     </div>
                     <div class="relatorios-carousel col-12 col-sm-10">
+                        <div>
+                            <a href="https://s34929.pcdn.co/wp-content/uploads/2025/04/Relatorio_ICM-2024.pdf"
+                                target="_blank">
+                                <img src="<?php echo get_template_directory_uri(); ?>/imgs/icm-2024.png" alt="icm 2023" class="img-fluid">
+                            </a>
+                        </div>
                         <div>
                             <a href="https://s34929.pcdn.co/wp-content/uploads/2024/05/Relatorio_ICM-2023_v2.pdf"
                                 target="_blank">

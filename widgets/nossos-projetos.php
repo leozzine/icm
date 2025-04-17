@@ -34,10 +34,8 @@
                                         mundo mais equitativo, próspero e preparado para os desafios do século XXI.
                                     </p>
                                     <ul class="list-unstyled fs-5 d-flex flex-column gap-3">
-                                        <li><strong>Programa de Reforço Alicerce Educação</strong> – Programa de
-                                            aprendizagem e
-                                            desenvolvimento de jovens com intuito de recuperar as lacunas educacionais
-                                            históricas e qualifica-los para um futuro de mais oportunidades.</li>
+                                        <li><strong>Jovens do Futuro</strong> – Realizado em parceria com o Alicerce Educação, o projeto busca oferecer educação de qualidade a crianças e jovens em situação de vulnerabilidade social e econômica, fortalecendo a base educacional em leitura, escrita e matemática, além de aprimorar habilidades socioemocionais essenciais para o desenvolvimento pessoal e profissional;</li>
+                                        <li><strong>Berçário de Empreendedores</strong> – Em parceria com a Occa conectamos jovens talentos a um ecossistema  de aprendizado, tecnologia e inovação;</li>
                                         <li><strong>Era uma vez Brasil</strong> – Projeto de Arte-Educação colaborando
                                             com o
                                             desenvolvimento da cultura nacional. Atua em 4 etapas: Fatos históricos,
@@ -76,12 +74,9 @@
                                         negativas vividas nesse período terão influência ao longo de toda a vida.
                                     </p>
                                     <ul class="list-unstyled fs-5 d-flex flex-column gap-3">
-                                        <li><strong>Visitação Domiciliar – Fortalecendo Vínculos</strong> –
-                                            Desenvolvimento
-                                            infantil e fortalecimento do vínculo entre cuidador e criança.</li>
-                                        <li><strong>Direito ao Brincar</strong> – Brinquedoteca viva e estímulo as
-                                            brincadeiras
-                                            dentro do espaço escolar.</li>
+                                        <li><strong>Festival Adoleta</strong> – é um evento em celebração ao Dia das Crianças e tem o objetivo de despertar e valorizar talentos infantis, além de proporcionar muita diversão a crianças residentes em comunidades com altos índices de vulnerabilidade;</li>
+                                        <li><strong>Semana do Brincar</strong> – tem o objetivo de refletir sobre a importância de garantir o direito de brincar e a vivência de momentos brincantes;</li>
+                                        <li><strong>Direito ao Brincar, Brinquedotecas Vivas</strong> – o objetivo é proporcionar às crianças momentos de desenvolvimento de habilidades para a vida, atendendo ao que prega o ECA (Estatuto da Criança e do Adolescente), dentro do espaço escolar;</li>
                                         <li><strong>Formação de Educadores da Infância</strong> – Contribuir com a
                                             prática docente
                                             dos educadores da educação infantil apresentando estratégias didáticas
@@ -117,10 +112,9 @@
                                     <ul class="list-unstyled fs-5 d-flex flex-column gap-3">
 
                                         <li><strong>Acolher</strong> – Desenvolvimento de inteligência emocional e
-                                            formação de uma cultura emocional na escola.</li>
-                                        <li><strong>Escolas Integrais</strong> – Implantação de 3 escolas integrais no
-                                            município de Belo Jardim, formando profissionais da educação na metodologia
-                                            integral e entrega de 2 brinquedotecas e 2 ateliês.</li>
+                                            formação de uma cultura emocional na escola;</li>
+                                        <li><strong>Escolas Integrais</strong> – Apoiamos o setor público através de implantações de políticas públicas, doamos materiais pedagógicos e mobiliário para os ambientes de aprendizagem, tais como ateliês criativos e brinquedotecas para as escolas participantes do Programa Municipal de Educação Integral – Florescer. Atualmente Belo Jardim conta com 4 escolas em tempo integral e iniciamos a construção de uma nova Escola, que atenderá aproximadamente 300 estudantes da rede municipal de ensino, buscando melhorar o resultado de Belo Jardim no IDEB, tendo a educação integral como maior pilar.</li>
+                                        <li><strong>Abrace o Rio Bitury</strong> – Apresenta uma série de iniciativas com foco no engajamento de toda a comunidade escolar, fortalecendo a consciência ambiental e a travessia do tema para além das fronteiras escolares, envolvendo famílias e toda comunidade;</li>
 
                                     </ul>
                                 </div>
@@ -148,8 +142,11 @@
                                     </p>
                                     <ul class="list-unstyled fs-5 d-flex flex-column gap-3">
 
-                                        <li><strong>Escola de Artes Integradas</strong> – Educação e fortalecimento da
-                                            cultura com aulas de musicalização e teatro.</li>
+                                        <li><strong>Escola de Artes Integradas</strong> – Educação e fortalecimento da cultura com aulas de musicalização e teatro;</li>
+                                        <li><strong>Pintnado o 7</strong> – é uma colônia de férias que oferece atividades que estimulam o desenvolvimento de habilidades por meio da arte e cultura, permitindo que as crianças aprendam e se relacionem através do brincar;</li>
+                                        <li><strong>Mostra Ser de Teatro</strong> – com o objetivo de formar público, valorizar e incentivar o teatro em Belo Jardim;</li>
+                                        <li><strong>Cine Teatro Cultura</strong> – O equipamento é um verdadeiro espaço educativo para contribuir com a cultura da cidade, atendendo às instituições de ensino e também garante sessões de cinema gratuitas para a população;</li>
+                                        <li><strong>Festival Folha de Carnaúba</strong> – tem o objetivo de fomentar e integrar as diversas modalidades de artes;</li>
 
                                     </ul>
                                 </div>

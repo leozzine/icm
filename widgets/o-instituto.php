@@ -4,7 +4,7 @@
         <div class="container-xl">
             <div class="row flex-column gap-4 pt-5">
                 <div class="col-12 col-lg-8">
-                    <img src="<?php echo get_template_directory_uri(); ?>/imgs/janela-nossa-historia.png" alt="janela nossa historia" class="img-fluid" />
+                    <img src="<?php echo get_template_directory_uri(); ?>/imgs/janela-instituto.png" alt="janela nossa historia" class="img-fluid" />
                 </div>
                 <div class="d-flex flex-row align-items-center col-12 gap-3">
                     <img src="<?php echo get_template_directory_uri(); ?>/imgs/shape-header.png" alt="icone de cabecalho" loading="lazy"
@@ -35,8 +35,9 @@
             <div class="container-xl">
                 <div class="row flex-row align-items-center">
                     <div class="col-12 col-lg-9 rounded-4 overflow-hidden icm-video-wrapper p-0">
-                        <div id="icm-video" class="ratio ratio-16x9"><iframe title="Depoimento Dona Conceição"
-                                width="100%" src="https://www.youtube.com/embed/ZU6FspCRh5A?si=Q7OuHxSqwKTyqYxX"
+                        <div id="icm-video" class="ratio ratio-16x9">
+                            <iframe title="Depoimento Dona Conceição"
+                                width="100%" src="https://www.youtube.com/embed/bGZ_67r6Njg?si=4Kb2j-9PjiJlArMQ"
                                 frameborder="0"
                                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""
