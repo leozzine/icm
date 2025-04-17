@@ -6,13 +6,13 @@
                 <div class="col-12 col-md-8 col-xxl-6">
                     <img src="<?php echo get_template_directory_uri(); ?>/imgs/janela-atuacao.png" alt="janela nossa historia" class="img-fluid" style="object-fit: contain;" />
                 </div>
-                <div class="col-12 col-xxl-6 d-flex flex-column gap-4">
+                <div class="col-12 col-xxl-6 d-flex flex-column gap-3">
                     <div class="d-flex flex-row align-items-center col-12 gap-3">
                         <img src="<?php echo get_template_directory_uri(); ?>/imgs/shape-header.png" alt="icone de cabecalho" loading="lazy" class="icm-shape-h1 flex-grow-0">
                         <h1 class="display-4 m-0 fw-bold">Nossa Atuação</h1>
                     </div>
                     <div class="col-12">
-                        <p class="col-12 fs-5">
+                        <p class="col-12 fs-5 mb-0">
                             De forma integrada junto as esferas governamentais, instituições privadas e a comunidade, o
                             Instituto Conceição Moura promove projetos e iniciativas que favorecem o desenvolvimento de
                             potencialidades e capacidades de crianças e jovens, apoiando-os na superação dos desafios da
