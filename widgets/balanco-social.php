@@ -4,7 +4,7 @@
         <section>
             <div class="container-xl">
                 <div class="row gap-4 gap-xxl-0 pb-5 pt-4 mb-lg-4">
-                    <div class="col-8 col-xxl-6">
+                    <div class="col-12 col-lg-8 col-xxl-6">
                         <img src="<?php echo get_template_directory_uri(); ?>/imgs/janela-relatorios.png" alt="janela nossa historia" class="img-fluid" />
                     </div>
                     <div class="col-12 col-xxl-6">
