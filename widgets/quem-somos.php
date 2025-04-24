@@ -72,7 +72,7 @@
                         </li>
                         <li><img src="<?php echo get_template_directory_uri(); ?>/imgs/list-bullet.png" alt="bullet" loading="lazy" /><span>Primeira
                                 infância</span></li>
-                        <li><img src="<?php echo get_template_directory_uri(); ?>/imgs/list-bullet.png" alt="bullet" loading="lazy" /><span>Formaçõ de
+                        <li><img src="<?php echo get_template_directory_uri(); ?>/imgs/list-bullet.png" alt="bullet" loading="lazy" /><span>Formação de
                                 Jovens</span></li>
                     </ul>
                 </div>
