@@ -23,11 +23,7 @@
                     <div class="row row-gap-5">
                         <h2 class="fs-3" style="color: var(--icm-primary); margin-bottom:-16px;">Institucionais</h2>
                         <div class="col-12 col-lg-6 d-flex gap-2 flex-column">
-                            <a href="https://www.youtube.com/watch?v=SewKIRg2k_M" target="_blank">
-                                <img src="<?php echo get_template_directory_uri(); ?>/imgs/prestacao-de-contas-2024.jpg" alt="video thumb"
-                                    class="img-fluid rounded-3">
-                            </a>
-                            <span>Prestação de contas 2024</span>
+
                         </div>
                         <div class="col-12 col-lg-6 d-flex gap-2 flex-column">
                             <a href="https://www.youtube.com/watch?v=g9K8ed0diJo" target="_blank">
